@@ -1,6 +1,7 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: ##3F3FBF;
+  color: #FFFFFF;
+  font-size: 16px;
 }
 
 nav {
@@ -40,6 +41,26 @@ ul {
 li {
   float: right;
   padding: 30px;
+  text-decoration: none;
+}
+
+figcaption {
+  font-size: 0.7em; /* 11px*/
+  line-height: 21px;
+}
+
+h1 {
+  font-size: 2em; /* 32px */
+}
+
+h3 {
+  font-size: 1em;
+  line-height: 30px;
+}
+
+p {
+  font size: 1em; /*16px */
+  line-height: 21px;
 }
 
 article {
