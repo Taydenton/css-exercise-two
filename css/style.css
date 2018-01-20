@@ -45,22 +45,26 @@ li {
 }
 
 figcaption {
-  font-size: 0.7em; /* 11px*/
-  line-height: 21px;
+  font-size: 0.7em; /* 11px */
+  line-height: 25px;
+  color: #010101;
 }
 
 h1 {
   font-size: 2em; /* 32px */
+    color: #010101;
 }
 
 h3 {
-  font-size: 1em;
-  line-height: 30px;
+  font-size: 1.2em; /* 18px */
+  line-height: 32px;
+  color: #010101;
 }
 
 p {
-  font size: 1em; /*16px */
-  line-height: 21px;
+  font size: 1em; /* 16px */
+  line-height: 25px;
+  color: black;
 }
 
 article {
@@ -70,4 +74,8 @@ article {
 .container {
   margin: 0 auto;
   width: 50%;
+}
+
+a {
+  text-decoration: none;
 }
