@@ -48,23 +48,27 @@ figcaption {
   font-size: 0.7em; /* 11px */
   line-height: 25px;
   color: #010101;
+  margin: 10px
 }
 
 h1 {
   font-size: 2em; /* 32px */
     color: #010101;
+    margin: 10px
 }
 
 h3 {
   font-size: 1.2em; /* 18px */
   line-height: 32px;
   color: #010101;
+  margin: 20px
 }
 
 p {
   font size: 1em; /* 16px */
   line-height: 25px;
   color: black;
+  margin: 10px
 }
 
 article {
@@ -79,3 +83,5 @@ article {
 a {
   text-decoration: none;
 }
+
+a:hover { color:#0070BC; } /* mouse over */
